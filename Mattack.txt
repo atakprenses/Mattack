@@ -1,4 +1,2 @@
-Benim projemin drive linkleri:
-Assets:https://drive.google.com/drive/folders/1c1iQ6G23H22r6zCGpYbDFnF7tlTmIUTn?usp=drive_link
-Packages:https://drive.google.com/drive/folders/1Jiqwke_2qtlXWMad5gyEPxsM37ETbIbN?usp=drive_link
-ProjectSettings:https://drive.google.com/drive/folders/1SlGAopP3qBDqog-iLhzFHrJtvMCJPQ0Z?usp=drive_link
+Benim projemin drive linki:https://drive.google.com/file/d/13UnYBw7_-H8M5p68FV_PxcfMU4EugnKN/view?usp=sharing
+
